@@ -32,11 +32,6 @@ This project was developed during the event **#NLWtogether** hosted by [Rocketse
 | 📲 Mobile version | [Click here](https://github.com/itzmatheus/nlwt-ignite-eSport-mobile) |
 | 🔥 Design       | [**Figma**](https://www.figma.com/community/file/1150897317533332617) |
 
-
-<div>
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-</div>
-
 ## 🩹 Improvements needed
 
 The project was totally developed according to the instructions given, no aditionals. In the future, it would be interesting to add the following implementations:
